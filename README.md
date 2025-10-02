@@ -3,6 +3,7 @@
 # 💻 Guide for Running Gensyn Node on Oracle 💻
 
 </div>
+
 ## We need an SSH client to connect our Oracle Virtual Machine (VM)
 
 * Download Termius for Windows: https://termius.com/download/windows
