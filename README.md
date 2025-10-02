@@ -4,9 +4,9 @@
 
 </div>
 
-![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/0.png)
-
 ## First, Signup on Oracle for Free Tier Virtual Machine
+
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/0.png)
 
 * Signup on Oracle https://www.oracle.com/in/cloud/free/ and verify the signup process via your VISA Debit Card 0r Credit Card.
 * It will take 24-48 hours to get your oracle account verified for use.
@@ -17,6 +17,9 @@
 
 
 ## You will need an SSH client to connect our Oracle Virtual Machine (VM)
+
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/b7114c12c530654e695b9f5ca0d48903ae09896d/0.png)
+
 * For this we will download Termius.
 * Termius for Windows: https://termius.com/download/windows
 * Termius for MAC: https://termius.com/download/macos
