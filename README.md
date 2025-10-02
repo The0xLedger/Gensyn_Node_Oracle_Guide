@@ -202,7 +202,6 @@ cloudflared tunnel --url http://localhost:3000
 
 ## Now, Take the Swarm Role in Gensyn Discord
 
-* Open Oracle VM Again On Termius
 * Follow these commands👇
 
 ```
