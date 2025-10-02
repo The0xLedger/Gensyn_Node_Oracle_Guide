@@ -47,7 +47,7 @@ git clone https://github.com/gensyn-ai/rl-swarm.git
 ```
 
 * If you have an old swarm.pem file. Copy your existing swarm.pem file in rl-swarm folder on your Oracle VPS storage.
-* Otherwise, Just follow Next Commands for Fresh Node Setup.
+* Otherwise, Just follow next commands for fresh node setup.
 
 ## Install Screen & Start The Node
 
