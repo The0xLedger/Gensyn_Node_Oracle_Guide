@@ -4,7 +4,23 @@
 
 </div>
 
-## First, Signup on Oracle for Free Tier Virtual Machine
+## First You will need an SSH client to build connection with our Oracle Virtual Machine (VM)
+
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/Termius.png)
+
+* For SSH client download Termius.
+* Termius for Windows: https://termius.com/download/windows
+* Termius for MAC: https://termius.com/download/macos
+* Install and Open Termius.
+
+## Now, Get SSH-Key From Termius. Follow The Steps in Images👇
+
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/1.png)
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/2.png)
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/3.png)
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/4.png)
+
+## Now, Signup on Oracle for Free Tier Virtual Machine
 
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/Oracle%20Free%20Tier%20VM.png)
 
@@ -13,18 +29,6 @@
 * When your oracle account gets verified. Log in on oracle website and click on create instances.
 
 ## Follow Commands properly to create free tier lifetime virtual machine
-
-
-
-## You will need an SSH client to connect our Oracle Virtual Machine (VM)
-
-![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/Termius.png)
-
-* For this we will download Termius.
-* Termius for Windows: https://termius.com/download/windows
-* Termius for MAC: https://termius.com/download/macos
-
-## 
 
 ## Install Python and Other Tools
 
