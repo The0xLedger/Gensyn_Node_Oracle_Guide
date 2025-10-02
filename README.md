@@ -45,7 +45,7 @@ The project has raised $50M funding from investors such as Andreessen Horowitz, 
 
 * Signup on Oracle https://www.oracle.com/in/cloud/free/ and verify the signup process via your VISA Debit Card or Credit Card.
 * It will take 24-48 hours to get your oracle account verified for use.
-* When your oracle account gets verified. Log in on oracle website and click on create instances.
+* When your oracle account gets verified. Log in on oracle website.
 
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/Oracle%20Free%20Tier%20VM.png)
 
