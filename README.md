@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Guide for running node on Oracle Life-Time Free VPS 💻
+# 💻 Guide for Running Gensyn Node on Oracle Life-Time Free VPS 💻
 
 </div>
 
