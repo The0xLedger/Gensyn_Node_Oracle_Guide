@@ -202,6 +202,9 @@ cloudflared tunnel --url http://localhost:3000
 
 ## Now, Take the Swarm Role in Gensyn Discord
 
+* Open Oracle VM Again On Termius
+* Follow these commands👇
+
 ```
 screen -S gensyn-swarm
 ```
@@ -290,7 +293,7 @@ gswarm
 ## Linking Discord and Telegram
 
 * To link your Discord and Telegram accounts:
-* Go to Gensyn Discord (swarm-link channel)
+* Go to Gensyn Discord https://discord.com/invite/gensyn (swarm-link channel)
 * Type "/link-telegram" (this gives you a code)
 * Now, Go to Your Telegram Bot
 * Type "/verify code" (replace "code" with the code you received)
