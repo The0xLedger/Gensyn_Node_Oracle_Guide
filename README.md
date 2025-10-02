@@ -87,7 +87,7 @@ cloudflared tunnel --url http://localhost:3000
 * Now It will promt Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N] Enter N
 * Now It will promt >> Enter the name of the model you want to use in huggingface repo/name format, or press [Enter] to use the default model. press Enter & get defalut model:
 * Now It will promt >> Would you like your model to participate in the AI Prediction Market? [Y/n] Enter Y
-* Now, Your node is running properly. Detach or exit the screen with (ctrl + A + D).
+* Now, Your node is running properly. Detach or exit the screen with (Ctrl + A + D).
 
 # Commands to check Gensyn Node in Screen
 
@@ -95,4 +95,4 @@ cloudflared tunnel --url http://localhost:3000
 screen -r gensyn
 ```
 
-* Exit the screen with (ctrl + A + D).
+* Exit the screen with (Ctrl + A + D).
