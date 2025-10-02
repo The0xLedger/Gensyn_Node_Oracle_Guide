@@ -104,10 +104,52 @@ cloudflared tunnel --url http://localhost:3000
 * Now It will promt >> Would you like your model to participate in the AI Prediction Market? [Y/n] Enter Y
 * Now, Your node is running properly. Detach or exit the screen with (Ctrl + A + D).
 
-## Commands to check Gensyn Node in Screen
+## Commands to check Gensyn Node Status in Future
 
 ```
 screen -r gensyn
 ```
 
 * Exit the screen with (Ctrl + A + D).
+
+## Now, Take the Swarm Role in Gensyn Discord
+
+```
+screen -S gensyn-swarm
+```
+
+```
+cd ~
+wget https://go.dev/dl/go1.24.0.linux-arm64.tar.gz
+sudo rm -rf /usr/local/go
+sudo tar -C /usr/local -xzf go1.24.0.linux-arm64.tar.gz
+```
+
+```
+echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
+echo 'export GOPATH=$HOME/go' >> ~/.bashrc
+echo 'export PATH=$PATH:$GOPATH/bin' >> ~/.bashrc
+source ~/.bashrc
+```
+
+Check Version
+
+```
+go version
+```
+
+```
+go install github.com/Deep-Commit/gswarm/cmd/gswarm@latest
+```
+
+Check Version
+
+```
+gswarm --version
+```
+
+```
+gswarm
+```
+
+* Follow Instructions
