@@ -301,6 +301,6 @@ gswarm
 * Go to Gensyn Discord (swarm-link channel)
 * Type "/link-telegram" (this gives you a code)
 * Now, Go to Your Telegram Bot
-* Type "/verify <code>" (replace <code> with the code you received)
+* Type "/verify code" (replace "code" with the code you received)
 * This will link your Discord and Telegram accounts for seamless integration.
 * You got the swarm role too👍
