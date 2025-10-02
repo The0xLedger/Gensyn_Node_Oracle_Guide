@@ -46,7 +46,7 @@ yarn -v
 git clone https://github.com/gensyn-ai/rl-swarm.git
 ```
 
-* NOTE: Now Copy your Existing Swarm File in Rl-Swarm Folder if you have old swarm.pem file or Just follow Next Commands.
+* NOTE: Now Copy your Existing Swarm File in Rl-Swarm Folder if you have old swarm.pem file or Just follow Next Commands for Fresh Setup.
 
 ## Install Screen & Start The Node
 
