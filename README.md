@@ -52,7 +52,7 @@ git clone https://github.com/gensyn-ai/rl-swarm.git
 
 <div align="center">
 
-# Install Screen & Start The Node
+## Install Screen & Start The Node
 
 </div>
 
@@ -76,8 +76,11 @@ source .venv/bin/activate
 ```
 ./run_rl_swarm.sh
 ```
+<div align="center">
 
-* Note: Now Open A New Terminal Window On VPS and Follow Next Commands.
+## Open A New Terminal Window On VPS and Follow Next Commands.
+
+</div>
 
 ```
 sudo apt install ufw -y
