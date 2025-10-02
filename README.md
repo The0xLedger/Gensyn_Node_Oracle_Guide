@@ -258,7 +258,7 @@ gswarm
 * Start a chat with your new bot and send any message like "Hii"
 * Visit "https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates" in your browser.
 * Example: If your bot token is 1234567890:ABCdefGHIjklMNOpqrsTUVwxyz, visit: https://api.telegram.org/bot1234567890:ABCdefGHIjklMNOpqrsTUVwxyz/getUpdates
-* Replace "YOUR_BOT_TOKEN" with your actual bot token and search again.
+* You just have to Replace "YOUR_BOT_TOKEN" with your actual bot token.
 * Find your chat ID in the response.
 * Example Respose:
 
