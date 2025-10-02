@@ -98,7 +98,7 @@ cloudflared --version
 cloudflared tunnel --url http://localhost:3000
 ```
 
-## Follow These 👇
+## Follow These Properly👇
 
 * Now connect your email on gensyn by clicking on generated link with (ctrl + click). After connecting email on gensyn website go to First Terminal Window.
 * Now It will promt Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N] Enter N
@@ -106,7 +106,7 @@ cloudflared tunnel --url http://localhost:3000
 * Now It will promt >> Would you like your model to participate in the AI Prediction Market? [Y/n] Enter Y
 * Now, Your node is running properly. Detach or exit the screen with (Ctrl + A + D).
 
-# Commands to check Gensyn Node in Screen
+## Commands to check Gensyn Node in Screen
 
 ```
 screen -r gensyn
