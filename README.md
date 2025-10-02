@@ -4,10 +4,10 @@
 
 </div>
 
-## We need an SSH client to connect our Oracle Virtual Machine (VM)
-
-* Download Termius for Windows: https://termius.com/download/windows
-* Download Termius for MAC: https://termius.com/download/macos
+## We will need an SSH client to connect our Oracle Virtual Machine (VM)
+* For this we will download Termius.
+* Termius for Windows: https://termius.com/download/windows
+* Termius for MAC: https://termius.com/download/macos
 
 ## Install Python and Other Tools
 
