@@ -1,10 +1,8 @@
 <div align="center">
 
-# 💻 Gensyn-ai-Rl-Swarm_Guide 💻
+# 💻 Guide for running node on Oracle Life-Time Free VPS 💻
 
 </div>
-
-# Guide for running node on Oracle Life-Time Free VPS
 
 ## Install Python and Other Tools
 
