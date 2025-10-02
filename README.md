@@ -44,7 +44,7 @@
 
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/Oracle%20Free%20Tier%20VM.png)
 
-## To create free tier lifetime virtual machine. Follow The Steps in Images👇
+## Create free tier lifetime virtual machine. Follow The Steps in Images👇
 
 * Click on Create a VM Instance.
 
@@ -54,7 +54,7 @@
 
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/6.png)
 
-* Select Ubuntu Operating System and Ampere Shape.
+* Select Ubuntu Operating System and Shape as Ampere.
 * Select 4 OCPU and 24 GB Memory.
 * ⚠️ If you go beyond this limit it will cost you real money.
 
@@ -74,9 +74,25 @@
 
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/10.png)
 
-* After Creating VM copy your public IP.
+* After Creating VM copy your Public IP.
 
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/11.png)
+
+## Connect Oracle Virtual Machine with Termius. Follow The Steps in Images👇
+
+* Click on Host and select new host.
+
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/12.png)
+
+* Fill Public IP, Label & Credentials and click on connect.
+
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/13.png)
+
+* You are connected with your lifetime free Virtual machine.
+
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/14.png)
+
+# Run these commands below in sequence to setup your gensyn node 👇
 
 ## Install Python and Other Tools
 
