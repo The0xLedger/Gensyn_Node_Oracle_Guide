@@ -7,6 +7,8 @@
 The Gensyn Protocol is a layer-1 trustless protocol for deep learning computation that directly and immediately rewards supply-side participants for pledging their compute time to the network and performing ML tasks.
 The project has raised $50M funding from investors such as Andreessen Horowitz, Galaxy, Eden Block, 7percent Ventures and others.
 
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/15.png)
+
 ## First You will need an SSH client to build connection with our Oracle Virtual Machine (VM)
 
 * For SSH client download Termius.
