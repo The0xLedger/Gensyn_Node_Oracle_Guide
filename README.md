@@ -81,7 +81,7 @@ The project has raised $50M funding from investors such as Andreessen Horowitz, 
 
 * After Creating VM copy your Public IP.
 
-![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/11.png)
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/16.png)
 
 ## Connect Oracle Virtual Machine with Termius. Follow The Steps in Images👇
 
