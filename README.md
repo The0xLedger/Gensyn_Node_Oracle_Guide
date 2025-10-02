@@ -7,14 +7,19 @@
 # Guide for running node on Oracle Life-Time Free VPS
 
 ## Install Python and Other Tools
+
 ```
 sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof
 ```
+
 Check Version
+
 ```
 python3 --version
 ```
+
 ## Install Node.js , npm & yarn
+
 ```
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt update && sudo apt install -y nodejs
 ```
@@ -30,7 +35,9 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
 ```
 sudo apt update && sudo apt install -y yarn
 ```
+
 Check version
+
 ```
 node -v
 npm -v
