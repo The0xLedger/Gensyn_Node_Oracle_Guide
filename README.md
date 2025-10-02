@@ -10,7 +10,7 @@
 sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof
 ```
 
-Check Version
+* Check Version
 
 ```
 python3 --version
@@ -34,7 +34,7 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
 sudo apt update && sudo apt install -y yarn
 ```
 
-Check version
+* Check version
 
 ```
 node -v
@@ -132,7 +132,7 @@ echo 'export PATH=$PATH:$GOPATH/bin' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-Check Version
+* Check Version
 
 ```
 go version
@@ -142,7 +142,7 @@ go version
 go install github.com/Deep-Commit/gswarm/cmd/gswarm@latest
 ```
 
-Check Version
+* Check Version
 
 ```
 gswarm --version
