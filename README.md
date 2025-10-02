@@ -257,10 +257,11 @@ gswarm
 * Save the bot token provided.
 * Start a chat with your new bot and send any message like "Hii"
 * Visit "https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates" in your browser.
-Example: If your bot token is 1234567890:ABCdefGHIjklMNOpqrsTUVwxyz, visit: https://api.telegram.org/bot1234567890:ABCdefGHIjklMNOpqrsTUVwxyz/getUpdates
+* Example: If your bot token is 1234567890:ABCdefGHIjklMNOpqrsTUVwxyz, visit: https://api.telegram.org/bot1234567890:ABCdefGHIjklMNOpqrsTUVwxyz/getUpdates
 * Replace "YOUR_BOT_TOKEN" with your actual bot token and search again.
 * Find your chat ID in the response.
-Example Respose:
+* Example Respose:
+
 {
   "ok": true,
   "result": [
@@ -286,6 +287,7 @@ Example Respose:
     }
   ]
 }
+
 * Extract the Chat ID: Look for the "chat":{"id":123456789} field.
 * For EOA Address Visit: https://dashboard.gensyn.ai/ and sign in with the email used during running the node.
 
