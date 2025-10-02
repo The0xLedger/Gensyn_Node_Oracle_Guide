@@ -248,5 +248,57 @@ gswarm --version
 gswarm
 ```
 
-* Follow Instructions
-* Exit Screen After Getting Role using (Ctrl + A + D)
+* It will Prompt for Telegram bot token, Chat ID, EOA address.
+
+## 🤖 Create Telegram Bot (Step-by-Step)
+
+* Chat with https://t.me/botfather on Telegram.
+* Send "/newbot" and follow the instructions.
+* Save the bot token provided.
+* Start a chat with your new bot and send any message like "Hii"
+* Visit "https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates" in your browser.
+Example: If your bot token is 1234567890:ABCdefGHIjklMNOpqrsTUVwxyz, visit: https://api.telegram.org/bot1234567890:ABCdefGHIjklMNOpqrsTUVwxyz/getUpdates
+* Replace "YOUR_BOT_TOKEN" with your actual bot token and search again.
+* Find your chat ID in the response.
+Example Respose:
+{
+  "ok": true,
+  "result": [
+    {
+      "message": {
+        "message_id": 2021,
+        "from": {
+          "id": 123456789,
+          "is_bot": false,
+          "first_name": "GSwarm",
+          "username": "gswarm_user",
+          "language_code": "en"
+        },
+        "chat": {
+          "id": 123456789,
+          "first_name": "GSwarm",
+          "username": "gswarm_user",
+          "type": "private"
+        },
+        "date": 1704067200,
+        "text": "Hello bot!"
+      }
+    }
+  ]
+}
+* Extract the Chat ID: Look for the "chat":{"id":123456789} field.
+* For EOA Address Visit: https://dashboard.gensyn.ai/ and sign in with the email used during running the node.
+
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/18.png)
+
+* Now, Exit Screen using (Ctrl + A + D)
+
+## Linking Discord and Telegram
+
+* To link your Discord and Telegram accounts:
+* Go to Gensyn Discord (swarm-link channel)
+* Type "/link-telegram" (this gives you a code)
+* Now, Go to Your Telegram Bot
+* Type /verify <code> (replace <code> with the code you received)
+* This will link your Discord and Telegram accounts for seamless integration.
+* You got the swarm role too👍
