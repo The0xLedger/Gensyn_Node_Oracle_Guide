@@ -41,32 +41,28 @@
 ## To create free tier lifetime virtual machine. Follow The Steps in Images👇
 
 * Click on Create a VM Instance.
-
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/5.png)
 
 * Fill name as "oracle"
-
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/6.png)
 
 * Select Ubuntu Operating System and Ampere Shape.
-* Select 4 OCPU and 24 GB Memory. (If you go beyond this limit it will cost you real money.)
-
+* Select 4 OCPU and 24 GB Memory.
+* ⚠️ If you go beyond this limit it will cost you real money.
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/7.png)
 
 * Click on create new virtual cloud network.
-
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/8.png)
 
 * Paste your SSH key here which you created earlier on termius
-
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/9.png)
 
-* 
-
+* Enter boot volume size upto 200 GB.
+* ⚠️ If you go beyond this limit it will cost you real money.
+* Click Next, Review and Create VM.
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/10.png)
 
-* 
-
+* After Creating VM copy your public IP.
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/11.png)
 
 ## Install Python and Other Tools
