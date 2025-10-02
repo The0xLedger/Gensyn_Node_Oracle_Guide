@@ -5,7 +5,7 @@
 </div>
 
 ## First, Signup on Oracle for Free Tier Virtual Machine
-
+![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/0.png)
 * Signup on Oracle https://www.oracle.com/in/cloud/free/ and verify the signup process via your VISA Debit Card 0r Credit Card.
 * It will take 24-48 hours to get your oracle account verified for use.
 * When your oracle account gets verified. Log in on oracle website and click on create instances.
