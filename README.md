@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Guide for Running Gensyn Node For Lifetime on Oracle 💻
+# 💻 Guide to Run Gensyn Node for Lifetime on Oracle 💻
 
 </div>
 
