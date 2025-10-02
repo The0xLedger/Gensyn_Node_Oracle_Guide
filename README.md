@@ -98,6 +98,8 @@ cloudflared --version
 cloudflared tunnel --url http://localhost:3000
 ```
 
+## Follow These 👇
+
 * Now connect your email on gensyn by clicking on generated link with (ctrl + click). After connecting email on gensyn website go to First Terminal Window.
 * Now It will promt Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N] Enter N
 * Now It will promt >> Enter the name of the model you want to use in huggingface repo/name format, or press [Enter] to use the default model. press Enter & get defalut model:
