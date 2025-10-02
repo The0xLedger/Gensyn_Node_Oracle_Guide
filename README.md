@@ -200,14 +200,6 @@ cloudflared tunnel --url http://localhost:3000
 * Now It will promt >> Would you like your model to participate in the AI Prediction Market? [Y/n] Enter Y
 * Now, Your node is running properly. Detach or exit the screen with (Ctrl + A + D).
 
-## Commands to check Gensyn Node Status in Future
-
-```
-screen -r gensyn
-```
-
-* Exit the screen with (Ctrl + A + D).
-
 ## Now, Take the Swarm Role in Gensyn Discord
 
 ```
@@ -304,3 +296,11 @@ gswarm
 * Type "/verify code" (replace "code" with the code you received)
 * This will link your Discord and Telegram accounts for seamless integration.
 * You got the swarm role too👍
+
+## Commands to check Gensyn Node Status in Future.
+
+```
+screen -r gensyn
+```
+
+* Exit the screen with (Ctrl + A + D).
