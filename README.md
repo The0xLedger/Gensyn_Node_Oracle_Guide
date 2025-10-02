@@ -49,6 +49,7 @@
 * Select Ubuntu Operating System and Ampere Shape.
 * Select 4 OCPU and 24 GB Memory.
 * ⚠️ If you go beyond this limit it will cost you real money.
+
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/7.png)
 
 * Click on create new virtual cloud network.
