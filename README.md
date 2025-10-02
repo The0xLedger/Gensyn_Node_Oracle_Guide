@@ -4,12 +4,14 @@
 
 </div>
 
-## Guide for running node on Oracle Life-Time Free VPS
+# Guide for running node on Oracle Life-Time Free VPS
+
+## Install Python and Other Tools
 
 ```
 sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof
 ```
-
+Check Version
 ```
 python3 --version
 ```
