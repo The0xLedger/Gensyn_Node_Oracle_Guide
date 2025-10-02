@@ -4,10 +4,22 @@
 
 </div>
 
-## We will need an SSH client to connect our Oracle Virtual Machine (VM)
+## First, Signup on Oracle for Free Tier Virtual Machine
+
+* Signup on Oracle https://www.oracle.com/in/cloud/free/ and verify the signup process via your VISA Debit Card 0r Credit Card.
+* It will take 24-48 hours to get your oracle account verified for use.
+* When your oracle account gets verified. Log in on oracle website and click on create instances.
+
+## Follow Commands properly to create free tier lifetime virtual machine
+
+
+
+## You will need an SSH client to connect our Oracle Virtual Machine (VM)
 * For this we will download Termius.
 * Termius for Windows: https://termius.com/download/windows
 * Termius for MAC: https://termius.com/download/macos
+
+## 
 
 ## Install Python and Other Tools
 
