@@ -153,3 +153,4 @@ gswarm
 ```
 
 * Follow Instructions
+* Exit Screen After Getting Role using (Ctrl + A + D)
