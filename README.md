@@ -9,8 +9,6 @@
 * Termius for Windows: https://termius.com/download/windows
 * Termius for MAC: https://termius.com/download/macos
 
-![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/main/0.png)
-
 ## Install Python and Other Tools
 
 ```
