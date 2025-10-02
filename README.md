@@ -1,5 +1,5 @@
 <div align="center">
-  💻 Gensyn-ai-Rl-Swarm_Guide 💻
+  # 💻 Gensyn-ai-Rl-Swarm_Guide 💻
   </div>
 
 Gensyn guide for running node on Oracle Life-Time Free VPS
