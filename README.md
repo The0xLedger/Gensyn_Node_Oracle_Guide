@@ -16,15 +16,15 @@
 ## Now, Get SSH-Key From Termius. Follow The Steps in Images👇
 
 * Click on Keychain.
-* 
+
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/1.png)
 
 * Click on Generate Key.
-* 
+
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/2.png)
 
 * Fill the details.
-* 
+
 ![image](https://github.com/The0xLedger/Gensyn_Node_Oracle_Guide/blob/Images/3.png)
 
 * Copy Public Key. It's your SSH key.
