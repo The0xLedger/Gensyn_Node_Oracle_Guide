@@ -6,11 +6,7 @@
 
 # Guide for running node on Oracle Life-Time Free VPS
 
-<div align="center">
-
 ## Install Python and Other Tools
-
-</div>
 
 ```
 sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof
@@ -22,11 +18,7 @@ Check Version
 python3 --version
 ```
 
-<div align="center">
-
 ## Install Node.js , npm & yarn
-
-</div>
 
 ```
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt update && sudo apt install -y nodejs
@@ -58,11 +50,7 @@ git clone https://github.com/gensyn-ai/rl-swarm.git
 
 * NOTE: Now Copy your Existing Swarm File in Rl-Swarm Folder if you have old swarm.pem file or Just follow Next Commands.
 
-<div align="center">
-
 ## Install Screen & Start The Node
-
-</div>
 
 ```
 sudo apt install screen -y
@@ -84,11 +72,8 @@ source .venv/bin/activate
 ```
 ./run_rl_swarm.sh
 ```
-<div align="center">
 
 ## Open A New Terminal Window On VPS and Follow Next Commands.
-
-</div>
 
 ```
 sudo apt install ufw -y
